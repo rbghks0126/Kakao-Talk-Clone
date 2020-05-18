@@ -1,5 +1,5 @@
 # Kakao-Talk-Clone
 
-KaKao Talk Desktop Chatting Application Clone
+This is a simple front-end a desktop chatting application called 'KaKao Talk'.
 
-Made for HTML/CSS practice for myself.
+Made for HTML/CSS practice!
