@@ -1,5 +1,7 @@
 # Kakao-Talk-Clone
 
-This is a simple clone of a front-end desktop chatting application called 'KaKao Talk'.
+Simple front-end only clone of a chat application called 'KaKao Talk'.
 
 Made for HTML/CSS practice!
+The index (chat page) looks something like below.
+![](images/indexsc.JPG)
